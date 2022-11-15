@@ -1,0 +1,31 @@
+/*COMENTEARIOS CSS*/
+/*SELECTORES*/
+
+p{
+    color: green;
+
+}
+
+/*selectores de clases*/
+
+.textoRojo{
+    color: white;
+    background-color: violet;
+    height: 40px;
+    width: 800px;
+
+}
+
+/*slectorres por id*/
+#unTexto{
+    color: rgba(100, 90, 99, 3);
+    background-color: paleturquoise;
+}
+
+body{
+    background-color: black;
+}
+/* modifica el ancho del grafico o imagen*/
+img{
+    width: 20%;
+}
